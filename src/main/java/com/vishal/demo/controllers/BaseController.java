@@ -1,4 +1,4 @@
-package com.hingehealth.demo.controllers;
+package com.vishal.demo.controllers;
 
 import org.springframework.web.server.ResponseStatusException;
 import org.springframework.http.HttpStatus;
@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.hingehealth.demo.service.Node;
-import com.hingehealth.demo.service.InputNode;
-import com.hingehealth.demo.service.Tree;
+import com.vishal.demo.service.Node;
+import com.vishal.demo.service.InputNode;
+import com.vishal.demo.service.Tree;
 import java.util.List;
 
 @RestController

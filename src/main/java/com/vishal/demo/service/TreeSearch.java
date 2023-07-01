@@ -1,4 +1,4 @@
-package com.hingehealth.demo.service;
+package com.vishal.demo.service;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.Set;

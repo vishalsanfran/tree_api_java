@@ -1,4 +1,4 @@
-package com.hingehealth.demo;
+package com.vishal.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

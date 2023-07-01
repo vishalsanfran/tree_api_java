@@ -1,4 +1,4 @@
-package com.hingehealth.demo;
+package com.vishal.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

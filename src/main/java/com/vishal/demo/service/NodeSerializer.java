@@ -1,4 +1,4 @@
-package com.hingehealth.demo.service;
+package com.vishal.demo.service;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.core.JsonProcessingException;

@@ -1,4 +1,4 @@
-package com.hingehealth.demo.service;
+package com.vishal.demo.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.hamcrest.MatcherAssert.assertThat;

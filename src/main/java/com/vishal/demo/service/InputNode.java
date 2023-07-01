@@ -1,4 +1,4 @@
-package com.hingehealth.demo.service;
+package com.vishal.demo.service;
 
 public class InputNode {
     Long parent;

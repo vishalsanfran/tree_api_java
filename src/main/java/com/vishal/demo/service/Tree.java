@@ -1,4 +1,4 @@
-package com.hingehealth.demo.service;
+package com.vishal.demo.service;
 
 import java.util.List;
 import java.util.ArrayList;
